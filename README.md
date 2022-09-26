@@ -1,3 +1,6 @@
+I've chosen to use Emotion because the quest didn't not explain it well (also it's no more "@emotion/core" but "@emotion/react")
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
